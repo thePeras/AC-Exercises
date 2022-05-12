@@ -1,0 +1,45 @@
+B: 4 6 8 7 5 3 2 9 0 1 ❌
+
+Push 0
+Push 1
+Push 2
+Push 3
+Push 4
+⏏️ Pop 4
+Push 5
+Push 6
+⏏️ Pop 6
+Push 7
+Push 8
+⏏️ Pop 8
+⏏️ Pop 7
+⏏️ Pop 5
+⏏️ Pop 3
+⏏️ Pop 2
+Push 9
+⏏️ Pop 9
+Pop 1 😟
+Pop 0 😟
+
+C: 2 5 6 7 4 8 9 3 1 0 ✅
+
+Push 0 
+Push 1
+Push 2
+⏏️ Pop 2
+Push 3
+Push 4 
+Push 5
+⏏️ Pop 5
+Push 6
+⏏️ Pop 6
+Push 7
+⏏️ Pop 7
+⏏️ Pop 4 
+push 8
+⏏️ Pop 8
+Push 9
+⏏️ Pop 9
+⏏️ Pop 3
+⏏️ Pop 1
+⏏️ Pop 0
