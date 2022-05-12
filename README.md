@@ -1,4 +1,4 @@
-#Exercises of (Arquitetura de Computadores)[https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484399] Class
+#Exercises of [Arquitetura de Computadores](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484399) Class
 
 The assembly are coded for ARM arquitecture, so this files can be run in computers that uses ARM chips.
 Especificaly this files are written for ARM MacOS subsystem (Macs with M chips) so there are little things required.
