@@ -1,5 +1,6 @@
 a) Implementar a sub-rotina SOMA_V, em assembly AArch64, considerando o seguinte programa em
 linguagem C:
+```
 #include <stdio.h>
 #include <stdlib.h>
 extern int SOMA_V(int *a, int n);
@@ -12,3 +13,4 @@ res = SOMA_V(v, dim);
 printf("Soma dos elementos = %d\n", res);
 return EXIT_SUCCESS;
 }
+```
